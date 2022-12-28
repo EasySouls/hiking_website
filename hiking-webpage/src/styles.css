@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.selected-navbtn {
+  @apply bg-sky-500;
+}

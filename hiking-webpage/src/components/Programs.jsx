@@ -5,7 +5,7 @@ export default function Programs() {
   return (
     <div className='w-screen h-screen'>
       <Header />
-      <div></div>
+      <div>Programs</div>
     </div>
   );
 }
