@@ -5,3 +5,9 @@
 .selected-navbtn {
   @apply bg-sky-500;
 }
+
+.main-with-sidebar {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  gap: 2.5rem;
+}
